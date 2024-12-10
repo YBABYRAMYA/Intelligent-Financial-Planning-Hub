@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <style>
+        /* Background Image and Gradient Styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, rgba(33, 150, 243, 0.6), rgba(33, 150, 243, 0.9)), url('your-background-image.jpg') no-repeat center center fixed; 
+            background-size: cover;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            transition: background 0.5s ease-in-out;
+        }
+
+        /* Navbar Styling */
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 20px;
+            background: rgba(33, 150, 243, 0.9);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            z-index: 100;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            transition: background 0.3s ease;
+        }
+
+        /* Logo Styling with hover effect */
+        .navbar img {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            height: 50px;
+            transition: transform 0.3s ease;
+        }
+
+        .navbar img:hover {
+            transform: rotate(360deg);
+        }
+
+        /* Navbar Links Styling */
+        .navbar a {
+            color: white;
+            font-weight: bold;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            margin-left: 20px;
+        }
+
+        .navbar a:hover {
+            background-color: #1976d2;
+            transform: scale(1.1);
+        }
+
+        /* Main Content Styling */
+        .content {
+            background: rgba(255, 255, 255, 0.85);
+            color: #333;
+            padding: 40px 30px;
+            text-align: center;
+            max-width: 850px;
+            margin: 80px auto;
+            border-radius: 15px;
+            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1.2s ease-in-out;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .content:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Heading Styling */
+        .content h1 {
+            font-size: 48px;
+            color: #2196f3;
+            margin-bottom: 20px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Paragraph Styling with enhanced color */
+        .content p {
+            font-size: 20px;
+            color: #FF4081; /* Enhanced Color */
+            margin-top: 15px;
+            line-height: 1.5;
+        }
+
+        /* Fade In Animation */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive Styling */
+        @media (max-width: 768px) {
+            .navbar a {
+                font-size: 16px;
+                padding: 10px 20px;
+            }
+
+            .content {
+                padding: 30px 20px;
+                margin-top: 120px;
+            }
+
+            .content h1 {
+                font-size: 36px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Navbar with logo and links for login and register -->
+    <div class="navbar">
+        <!-- Logo in the top-left corner -->
+        <img src="https://res.cloudinary.com/duatu5rv5/image/upload/v1732088891/PFIT1_kq9a7c.png" alt="Logo">
+        <!-- Navbar Links -->
+        <a href="{% url 'login' %}">Login</a>
+        <a href="{% url 'register' %}">Register</a>
+    </div>
+
+    <!-- Main content area with title and description -->
+    <div class="content">
+        <h1>Welcome to Smart Financial Management</h1>
+        <p>Your trusted assistant for organizing and optimizing your personal finances effortlessly!</p>
+    </div>
+</body>
+</html>
