@@ -1,5 +1,3 @@
-Here’s an improved version of the README file for your **Intelligent Financial Planning Hub**, incorporating emojis for better engagement and readability:
-
 ---
 
 # 💰 Intelligent Financial Planning Hub 💡  
