@@ -53,7 +53,7 @@ Intelligent-Financial-Planning-Hub/
 1. **Clone the repository**:  
 
    ```bash
-   git clone https://github.com/yourusername/Intelligent-Financial-Planning-Hub.git
+   git clone https://github.com/YBABYRAMYA/Intelligent-Financial-Planning-Hub.git
    cd Intelligent-Financial-Planning-Hub
    ```
 
