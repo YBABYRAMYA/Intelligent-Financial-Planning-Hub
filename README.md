@@ -89,27 +89,40 @@ Intelligent-Financial-Planning-Hub/
 
 ## 📸 Screenshots  
 
-- 🖥 **Application Overview**  
+- 🖥 **Application Overview**
+- 
   ![Screenshot (1483)](https://github.com/user-attachments/assets/edc15bb1-0ec4-4419-84d2-ac9b9d83731e)
 
 
-- 🔑 **Login Page**  
-  ![Login Page](screenshot_1484.png)  
+- 🔑 **Login Page**
+- 
+ ![Screenshot (1484)](https://github.com/user-attachments/assets/1c226cd9-1f72-44ef-920c-3bc2c3d5b745)
 
-- 🖥 **Profile Page**  
-  ![Profile Page](screenshot_1485.png)  
 
-- ➕ **Add Expense Page**  
-  ![Add Expense Page](screenshot_1486.png)  
+- 🖥 **Profile Page**
+- 
+ ![Screenshot (1485)](https://github.com/user-attachments/assets/ce1d77d5-7b6a-408b-af19-d338fd292fea)
 
-- 👀 **View Expense Page**  
-  ![View Expense Page](screenshot_1487.png)  
 
-- 📊 **Financial Reports**  
-  ![Financial Reports](screenshot_1488.png)  
+- ➕ **Add Expense Page**
+- 
+ ![Screenshot (1486)](https://github.com/user-attachments/assets/fd513870-9736-4bf5-b789-c4f8a1edc022)
 
-- 📊 **Financial Dashboard**  
-  ![Financial Dashboard](screenshot_1489.png)  
+
+- 👀 **View Expense Page**
+- 
+  ![Screenshot (1487)](https://github.com/user-attachments/assets/4e31b5e2-c586-40d7-aba0-12f93aeb6b70)
+
+
+- 📊 **Financial Reports**
+- 
+  ![Screenshot (1488)](https://github.com/user-attachments/assets/31c57d0d-576e-4784-a19c-e7339afcebe0)
+
+
+- 📊 **Financial Dashboard**
+- 
+  ![Screenshot (1489)](https://github.com/user-attachments/assets/304f530b-5a7d-4cd3-a3e4-cc59d5a112cf)
+
 
 ---
 
