@@ -94,13 +94,14 @@ Intelligent-Financial-Planning-Hub/
   ![Screenshot (1483)](https://github.com/user-attachments/assets/edc15bb1-0ec4-4419-84d2-ac9b9d83731e)
 
 - 📝 **Register Page**
-- 
+  
   ![Screenshot (1593)](https://github.com/user-attachments/assets/7e106aa5-c26c-4c71-ad05-2b684f1dd155)
 
 
 - 🔑 **Login Page**
   
  ![Screenshot (1484)](https://github.com/user-attachments/assets/1c226cd9-1f72-44ef-920c-3bc2c3d5b745)
+
 
 - 🖥 **Profile Page**
   
