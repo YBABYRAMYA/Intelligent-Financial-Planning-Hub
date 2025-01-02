@@ -93,15 +93,25 @@ Intelligent-Financial-Planning-Hub/
   
   ![Screenshot (1483)](https://github.com/user-attachments/assets/edc15bb1-0ec4-4419-84d2-ac9b9d83731e)
 
+- 📝 **Register Page**
+  ![Screenshot (1593)](https://github.com/user-attachments/assets/7e106aa5-c26c-4c71-ad05-2b684f1dd155)
+
 
 - 🔑 **Login Page**
   
  ![Screenshot (1484)](https://github.com/user-attachments/assets/1c226cd9-1f72-44ef-920c-3bc2c3d5b745)
 
-
 - 🖥 **Profile Page**
   
  ![Screenshot (1485)](https://github.com/user-attachments/assets/ce1d77d5-7b6a-408b-af19-d338fd292fea)
+
+
+- 🖊 **Update Username Page**
+  ![Screenshot (1594)](https://github.com/user-attachments/assets/98610933-e921-4c7f-aa48-eba63d826a42)
+
+
+- 🔑 **Change Password Page**
+  ![Screenshot (1595)](https://github.com/user-attachments/assets/6307fad5-3036-48c2-8ea4-838abe11d9e8)
 
 
 - ➕ **Add Expense Page**
@@ -123,6 +133,13 @@ Intelligent-Financial-Planning-Hub/
   
   ![Screenshot (1489)](https://github.com/user-attachments/assets/304f530b-5a7d-4cd3-a3e4-cc59d5a112cf)
 
+
+- 🎯 **Budget Notification**
+![Screenshot (1596)](https://github.com/user-attachments/assets/219a0d79-ab54-42b7-b8fa-7b3445fee022)
+
+
+- ⚠ **Alerts and Warnings**
+![Screenshot (1597)](https://github.com/user-attachments/assets/1071958e-c438-460f-8546-314d8992556d)
 
 ---
 
