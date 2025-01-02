@@ -1,5 +1,3 @@
----
-
 # 💰 Intelligent Financial Planning Hub 💡  
 
 The **Intelligent Financial Planning Hub** is a Django-based web application designed to empower users in managing their personal finances effectively. With features like expense tracking, goal setting, and insightful dashboards, it simplifies financial planning and promotes healthier financial habits.
