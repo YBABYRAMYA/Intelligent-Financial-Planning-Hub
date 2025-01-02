@@ -90,7 +90,7 @@ Intelligent-Financial-Planning-Hub/
 ## 📸 Screenshots  
 
 - 🖥 **Application Overview**  
-  ![Application Overview](screenshot_1483.png)  
+  (https://github.com/user-attachments/assets/23b1a773-de87-4036-b6e8-65c88d331a27)
 
 - 🔑 **Login Page**  
   ![Login Page](screenshot_1484.png)  
