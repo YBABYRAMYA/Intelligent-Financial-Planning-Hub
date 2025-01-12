@@ -4,7 +4,7 @@ The **Intelligent Financial Planning Hub** is a Django-based web application des
 
 ---
 
-## ✨ Features  
+## ✨ Features  ✨
 
 - 🧑‍💻 **User Account Management**: Secure sign-up, log-in, and profile management.  
 - 📊 **Expense Tracking**: Add, edit, and categorize expenses with ease.  
@@ -13,7 +13,7 @@ The **Intelligent Financial Planning Hub** is a Django-based web application des
 
 ---
 
-## 🗂 Project Structure  
+## 🗂 Project Structure  🗂
 
 ```plaintext
 Intelligent-Financial-Planning-Hub/
@@ -40,15 +40,15 @@ Intelligent-Financial-Planning-Hub/
 
 ---
 
-## 🚀 Getting Started  
+## 🚀 Getting Started  🚀
 
-### ✅ Prerequisites  
+### ✅ Prerequisites  ✅
 
 - 🐍 Python 3.8+  
 - 🌐 Django 4.2+  
 - 💻 Virtual environment manager (recommended)  
 
-### ⚙ Installation  
+### ⚙ Installation  ⚙
 
 1. **Clone the repository**:  
 
@@ -87,7 +87,7 @@ Intelligent-Financial-Planning-Hub/
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshots  📸
 
 - 🖥 **Application Overview**
   
@@ -147,11 +147,11 @@ Intelligent-Financial-Planning-Hub/
 
 - ⚠ **Alerts and Warnings**
   
- ![Screenshot (1606)](https://github.com/user-attachments/assets/315b8f19-ba83-4be0-bc3c-dd76ce59d827)
+  ![Screenshot (1606)](https://github.com/user-attachments/assets/315b8f19-ba83-4be0-bc3c-dd76ce59d827)
 
 ---
 
-## 🎯 Usage  
+## 🎯 Usage  🎯
 
 1. 📝 **Register** for a new account or log in with your credentials.  
 2. ➕ **Add expenses** and categorize them as needed.  
@@ -159,7 +159,7 @@ Intelligent-Financial-Planning-Hub/
 
 ---
 
-## 🤝 Contributing  
+## 🤝 Contributing  🤝
 
 Contributions are always welcome! Here's how to contribute:  
 
@@ -170,13 +170,13 @@ Contributions are always welcome! Here's how to contribute:
 
 ---
 
-## 📜 License  
+## 📜 License  📜
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Acknowledgments  
+## 🙌 Acknowledgments  🙌
 
 - 🚀 **Built with Django** – the web framework for perfectionists with deadlines.  
 - 💡 **Inspired by the need for smarter personal financial management**.
