@@ -140,12 +140,14 @@ Intelligent-Financial-Planning-Hub/
 
 - 🎯 **Budget Notification**
   
-  ![Screenshot (1596)](https://github.com/user-attachments/assets/219a0d79-ab54-42b7-b8fa-7b3445fee022)
+  ![Screenshot (1607)](https://github.com/user-attachments/assets/18cd581f-52e3-4ba3-821c-02d717bd5aa1)
+
+  ![Screenshot (1608)](https://github.com/user-attachments/assets/4ae4f5e2-559e-4c64-a13b-0a2244732335)
 
 
 - ⚠ **Alerts and Warnings**
   
-  ![Screenshot (1597)](https://github.com/user-attachments/assets/1071958e-c438-460f-8546-314d8992556d)
+ ![Screenshot (1606)](https://github.com/user-attachments/assets/315b8f19-ba83-4be0-bc3c-dd76ce59d827)
 
 ---
 
